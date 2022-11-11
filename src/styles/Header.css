@@ -1,0 +1,10 @@
+/* #header{
+    width: 600px;
+    height: 100px;
+} */
+#img{
+    width: 600px;
+    
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
